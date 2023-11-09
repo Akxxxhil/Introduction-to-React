@@ -1,0 +1,22 @@
+Question 1;==>what is database
+Database have 2 functionality one as storage and 2nd as Computation.
+
+Question 2;==> file based storage(FBS)
+storing data in  the file based system
+1.. Its easy to use 
+2...No complication Involved
+3... it colud be easily copied and stored at multiple location.
+
+Question 3;==> Challenges in  file based storage
+1...Redundancy ==> multiple copies at different places
+2...Security Concerns
+3...complex algorithm to make the FBS
+4...Difficult in cuncurrency (reading more people at a time)
+
+
+
+
+
+
+
+
